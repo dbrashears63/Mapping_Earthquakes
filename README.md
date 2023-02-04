@@ -19,7 +19,7 @@ When the index.html is launched a map will render. A toggle box in the upper rig
 
 ## Images that represent the underlying maps and data
 Fig. #1 Map showing Streets Map with all layers of data chosen.
-![alt](URL "title")
+![alt](https://github.com/dbrashears63/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/fig_1.png)
 
 Fig #2 Map showing Satellite Map with only the majors earthquake layer chosen.
 ![alt](URL "title")
