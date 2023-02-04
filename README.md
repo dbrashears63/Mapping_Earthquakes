@@ -10,8 +10,8 @@ JavaScript	D3.js library
 Leaflet.js	MapBox API
 
 ### Data Resources
-U.S. Geological Survey earthquake data. Delivered in a GeoJSON format./
-https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+U.S. Geological Survey earthquake data. Delivered in a GeoJSON format.
+<br>https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
 ## Results
 
