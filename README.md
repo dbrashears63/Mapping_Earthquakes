@@ -22,10 +22,10 @@ Fig. #1 Map showing Streets Map with all layers of data chosen.
 ![alt](https://github.com/dbrashears63/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/fig_1.png)
 
 Fig #2 Map showing Satellite Map with only the majors earthquake layer chosen.
-![alt](URL "title")
+![alt](https://github.com/dbrashears63/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/fig_2.png)
 
 Fig #3 Map showing the popup marker displaying the magnitude and location.
-![alt](URL "title")
+![alt](https://github.com/dbrashears63/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/fig_3.png)
 
 ## Conclusion
 Using data visualizations has the ability to show data in context as related to the question being asked. This project shows the relationship between the tectonic plates and where earthquakes occur. If someone is shown just the earthquake data it would be difficult for them to establish a correlation between tectonic plates and earthquakes.
