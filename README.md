@@ -19,11 +19,13 @@ When the index.html is launched a map will render. A toggle box in the upper rig
 
 ## Images that represent the underlying maps and data
 Fig. #1 Map showing Streets Map with all layers of data chosen.
+![alt](URL "title")
 
 Fig #2 Map showing Satellite Map with only the majors earthquake layer chosen.
+![alt](URL "title")
 
 Fig #3 Map showing the popup marker displaying the magnitude and location.
-
+![alt](URL "title")
 
 ## Conclusion
 Using data visualizations has the ability to show data in context as related to the question being asked. This project shows the relationship between the tectonic plates and where earthquakes occur. If someone is shown just the earthquake data it would be difficult for them to establish a correlation between tectonic plates and earthquakes.
